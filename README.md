@@ -1,5 +1,8 @@
 # Simulation-and-Modeling-Lab
 
+##Tool
+Arena - 
+
 ## Model 1 Problem Statement
 In a Car Repair shop , car arrives to take the service. Time between car arrivals is 4 minutes(Random expo) . After arrival they wait in the single channel queue to get serviced. Servicing each car requires constant time of 5 minutes by the resource. After getting serviced they exit the system. Setup: Replication Length 60 minutes , base unit in minutes, replication 1.
 
